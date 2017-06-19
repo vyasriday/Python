@@ -1,0 +1,3 @@
+Let us start writing some data into our file
+We will show how to use readline() and readlines() methods in this file
+Let me append a new data in the file

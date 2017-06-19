@@ -1,0 +1,5 @@
+This data may get appended to in the new file
+This is another line I am going to write in my fileLet see if this data gets appended to our file
+Let us hope soThis is first string
+Here comes the another
+Now the third line that's it
