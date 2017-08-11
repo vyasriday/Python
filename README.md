@@ -1,3 +1,4 @@
 # Python
-Basic Python Programs to learn fundamentals
+
+My Python repository to learn python as I am learning.
 
