@@ -1,4 +1,4 @@
 # Python
 
-My Python repository to learn python as I am learning.
+My Python repository to learn python for a beginner
 
